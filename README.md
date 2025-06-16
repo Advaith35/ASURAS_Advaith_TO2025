@@ -42,11 +42,5 @@ Using *Generative AI, we empower doctors to speak and generate digital prescript
 
 ---
 
-## 🎯 Why This Matters
-
-- 75% of prescriptions in India are still handwritten
-- Only 27% of patients strictly follow medication schedules
-- Doctor-patient communication gap due to language & literacy
-- Strong alignment with *Ayushman Bharat Digital Mission (ABDM)* goals
 
 ---
