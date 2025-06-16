@@ -10,7 +10,7 @@ AI Prescription Assistant – Voice-Driven Healthcare for India
 
 # DEMO Template
 
-[![Demo Site Template](https://img.shields.io/badge/Demo-)](https://preview--health-ai-connect-now.lovable.app/)
+[![Demo Site Template](https://img.shields.io/badge/Demo-%F0%9F%94%8A-blue)](https://preview--health-ai-connect-now.lovable.app/)
 
 ## 🚀 Overview
 
