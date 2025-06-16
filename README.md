@@ -1,7 +1,7 @@
 # 🩺 AI Prescription Assistant – Voice-Driven Healthcare for India
 
 [![Watch Demo](https://img.shields.io/badge/Watch%20Demo-%F0%9F%94%8A-red)](https://youtu.be/zNXoK-1mUy0)
-
+<!-- Embedded YouTube Video -->
 <p align="center">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/zNXoK-1mUy0" 
   title="AI Prescription Assistant Demo" frameborder="0" allowfullscreen></iframe>
