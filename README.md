@@ -8,6 +8,10 @@ AI Prescription Assistant – Voice-Driven Healthcare for India
   title="AI Prescription Assistant Demo" frameborder="0" allowfullscreen></iframe>
 </p>
 
+# DEMO Template
+
+[![Watch Demo](https://img.shields.io/badge/Demo)](https://preview--health-ai-connect-now.lovable.app/)
+
 ## 🚀 Overview
 
 The AI Prescription Assistant is an end-to-end voice-driven solution designed to *streamline doctor-patient workflows*. This project tackles two major problems in Indian healthcare:  
