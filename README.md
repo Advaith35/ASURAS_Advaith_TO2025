@@ -2,6 +2,11 @@
 
 [![Watch Demo](https://img.shields.io/badge/Watch%20Demo-%F0%9F%94%8A-red)](https://youtu.be/zNXoK-1mUy0)
 
+<p align="center">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/zNXoK-1mUy0" 
+  title="AI Prescription Assistant Demo" frameborder="0" allowfullscreen></iframe>
+</p>
+
 ## 🚀 Overview
 
 The AI Prescription Assistant is an end-to-end voice-driven solution designed to *streamline doctor-patient workflows*. This project tackles two major problems in Indian healthcare:  
